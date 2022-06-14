@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-  project = "nimble-button-343420"
+  project = "ID-of-your-project"
   region = "us-central1"
   zone = "us-central1-a"
 }
